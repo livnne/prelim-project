@@ -1,0 +1,9 @@
+.text-5xl {
+    font-size: 3.125rem; /* 50px */
+    line-height: 1.2;
+  }
+
+  * {
+    font-family: 'Apfel Grotezk', sans-serif;
+    line-height: 1.5;
+}
